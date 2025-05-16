@@ -69,6 +69,6 @@ footer{
     text-align: center;
     color: var(--primarynavfooter-card);
     background-color: var(--backgroundfirst);
-    margin: 100px 0;
     clear: both;
+     margin: 100px 0;
 }
